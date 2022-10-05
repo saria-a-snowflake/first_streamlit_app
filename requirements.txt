@@ -1,0 +1,2 @@
+#requirements.txt
+snowflare-connector-python
